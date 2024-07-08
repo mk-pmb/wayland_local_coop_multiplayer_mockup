@@ -1,0 +1,22 @@
+{ "name": "wayland_local_coop_multiplayer_mockup",
+  "version": "0.0.1",
+  "description": "Ideas for how local co-op could work in wayland.",
+  "keywords": ["wayland"],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/wayland_local_coop_multiplayer/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/wayland_local_coop_multiplayer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/wayland_local_coop_multiplayer/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "SEE LICENSE IN README.md",
+
+
+
+  "engines": {}
+}
